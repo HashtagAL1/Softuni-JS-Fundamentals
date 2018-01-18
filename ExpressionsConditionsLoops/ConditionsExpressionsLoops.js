@@ -75,11 +75,16 @@ function imperialUnits(input) {
 }
 
 function nowPlaying(input) {
-    console.log(`Now Playing: ${input[1]} - ${input[0]} [${input[2]}]`);
+    let artist = input[1];
+    let song = input[0];
+    let duration = input[2];
+    console.log(`Now Playing: ${artist} - ${song} [${duration}]`);
 }
 
 function composeTag(input) {
-    console.log(`<img src="${input[0]}" alt="${input[1]}">`);
+    let location = input[0];
+    let alt = input[1];
+    console.log(`<img src="${location}" alt="${alt}">`);
 }
 
 function binaryToDecimal(input) {
@@ -95,14 +100,18 @@ function binaryToDecimal(input) {
 function assignProperties(input) {
     let obj = {};
     for(let i = 0; i < input.length; i += 2) {
-        obj[input[i]] = input[i + 1];
+        let property = input[i];
+        let value = input[i + 1];
+        obj[property] = value;
     }
     return obj;
 }
 
 function lastMonth(input) {
     let date = new Date();
-    date.setFullYear(input[2], input[1] - 1, 0);
+    let year = input[2];
+    let month = input[1];
+    date.setFullYear(year, month - 1, 0);
     console.log(date.getDate());
 
 }
@@ -150,18 +159,16 @@ function moviePrices(input) {
     let wizard = {monday: '10', tuesday: '10', wednesday: '10', thursday: '10', friday: '10', saturday: '15', sunday: '15'};
 
     let day = input[1];
+    let movie = input[0];
 
     let isValidDay = (function () {
         day = day.toLowerCase();
-        if(day === 'monday' || day === 'tuesday' || day === 'wednesday' || day === 'thursday' ||
-        day === 'friday' || day === 'saturday' || day === 'sunday') {
-            return true;
-        }
-        return false;
+        return (day === 'monday' || day === 'tuesday' || day === 'wednesday' ||
+        day === 'thursday' || day === 'friday' || day === 'saturday' || day === 'sunday');
     }());
 
     if(isValidDay) {
-        switch (input[0].toLowerCase()) {
+        switch (movie.toLowerCase()) {
             case 'the godfather':
                 console.log(godfather[day]);
                 break;
@@ -176,6 +183,7 @@ function moviePrices(input) {
                 break;
             default:
                 console.log('error');
+                break;
         }
     }
     else
@@ -202,20 +210,20 @@ function quadraticEquation(a, b, c) {
 
 function multiplicationTable(num) {
     let result = '<table border="1">';
-    for(let i = 0; i <= num; i++) {
+    for(let row = 0; row <= num; row++) {
         result += '<tr>';
-        for(let j = 0; j <= num; j++) {
-            if (i === 0 && j === 0) {
+        for(let column = 0; column <= num; column++) {
+            if (row === 0 && row === 0) {
                 result += '<th>x</th>';
             }
-            else if (i === 0) {
-                result += `<th>${j}</th>`;
+            else if (row === 0) {
+                result += `<th>${column}</th>`;
             }
-            else if (j === 0) {
-                result += `<th>${i}</th>`;
+            else if (column === 0) {
+                result += `<th>${row}</th>`;
             }
             else {
-                result += `<td>${i * j}</td>`;
+                result += `<td>${row * column}</td>`;
             }
         }
         result += '</tr>';
@@ -225,10 +233,7 @@ function multiplicationTable(num) {
 }
 
 function figure4Squares(num) {
-    let slashes = Math.round(num / 3);
-    if(num <= 4) {
-        slashes = 0;
-    }
+
     if (num % 2 === 0) {
         for(let i = 0; i < num - 1; i++) {
             let line = '';
