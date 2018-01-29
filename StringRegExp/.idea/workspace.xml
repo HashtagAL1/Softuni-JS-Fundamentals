@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68895326-f803-470f-9d9e-eaf7d4da1836" name="Default" comment="" />
+    <list default="true" id="207ca16d-4110-45e8-b602-5b5d07a37670" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,27 +10,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Arrays" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Lab.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="117" column="1" lean-forward="false" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+            <state relative-caret-position="90">
+              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <element signature="n#!!block;n#sumFirstLast#0" expanded="false" />
-                <element signature="n#!!block;n#evenPositions#0" expanded="false" />
-                <element signature="n#!!block;n#negativePositiveNumbers#0" expanded="false" />
-                <element signature="n#!!block;n#firstLastElements#0" expanded="false" />
-                <element signature="n#!!block;n#lastKNumbersSeq#0" expanded="false" />
-                <element signature="n#!!block;n#processOddNumbers#0" expanded="false" />
-                <element signature="n#!!block;n#smallest2Numbers#0" expanded="false" />
-                <element signature="n#!!block;n#biggestElementMatrix#0" expanded="false" />
-                <element signature="n#!!block;n#diagonalSums#0" expanded="false" />
-                <element signature="n#!!block;n#equalNeighbours#0" expanded="false" />
+                <element signature="n#!!block;n#printLetters#0" expanded="false" />
+                <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+                <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+                <element signature="n#!!block;n#extractText#0" expanded="false" />
+                <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+                <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+                <element signature="n#!!block;n#usernames#0" expanded="false" />
+                <element signature="n#!!block;n#censorship#0" expanded="false" />
+                <element signature="n#!!block;n#escaping#0" expanded="false" />
+                <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+                <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+                <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+                <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+                <element signature="n#!!block;n#employeeData#0" expanded="false" />
+                <element signature="n#!!block;n#formFiller#0" expanded="false" />
+                <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -39,19 +42,19 @@
       <file leaf-file-name="Homework.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
               <folding>
-                <element signature="n#!!block;n#printDelimiter#0" expanded="false" />
-                <element signature="n#!!block;n#printNthElement#0" expanded="false" />
-                <element signature="n#!!block;n#addRemove#0" expanded="false" />
-                <element signature="n#!!block;n#rotateArray#0" expanded="false" />
-                <element signature="n#!!block;n#nonDecreasingSeq#0" expanded="false" />
-                <element signature="n#!!block;n#sortArray#0" expanded="false" />
-                <element signature="n#!!block;n#magicMatrixes#0" expanded="false" />
-                <element signature="n#!!block;n#diagonalAttack#0" expanded="false" />
-                <element signature="n#!!block;n#orbit#0" expanded="false" />
-                <element signature="n#!!block;n#spiralMatrix#0" expanded="false" />
+                <element signature="n#!!block;n#splitString#0" expanded="false" />
+                <element signature="n#!!block;n#repeatString#0" expanded="false" />
+                <element signature="n#!!block;n#isStartingWith#0" expanded="false" />
+                <element signature="n#!!block;n#isEndingWith#0" expanded="false" />
+                <element signature="n#!!block;n#capitalizeWords#0" expanded="false" />
+                <element signature="n#!!block;n#captureAllNums#0" expanded="false" />
+                <element signature="n#!!block;n#findVarNames#0" expanded="false" />
+                <element signature="n#!!block;n#wordOccur#0" expanded="false" />
+                <element signature="n#!!block;n#extractLinks#0" expanded="false" />
+                <element signature="n#!!block;n#secretData#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -119,19 +122,19 @@
     <panes>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Arrays" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="StringRegExp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StringRegExp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,9 +142,9 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework.js" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework.js" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,19 +247,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68895326-f803-470f-9d9e-eaf7d4da1836" name="Default" comment="" />
-      <created>1516737021575</created>
+      <changelist id="207ca16d-4110-45e8-b602-5b5d07a37670" name="Default" comment="" />
+      <created>1517095129029</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1516737021575</updated>
-      <workItem from="1516737025984" duration="6287000" />
-      <workItem from="1516968211228" duration="11357000" />
-      <workItem from="1517003344778" duration="5511000" />
+      <updated>1517095129029</updated>
+      <workItem from="1517095135439" duration="6226000" />
+      <workItem from="1517101744677" duration="4365000" />
+      <workItem from="1517137769252" duration="4742000" />
+      <workItem from="1517151352226" duration="761000" />
+      <workItem from="1517225859534" duration="6370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23155000" />
+    <option name="totallyTimeSpent" value="22464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -271,16 +276,16 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726173" sideWeight="0.49041095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20726173" sideWeight="0.509589" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -298,45 +303,32 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Lab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1755">
-          <caret line="117" column="1" lean-forward="false" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!block;n#sumFirstLast#0" expanded="false" />
-            <element signature="n#!!block;n#evenPositions#0" expanded="false" />
-            <element signature="n#!!block;n#negativePositiveNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#firstLastElements#0" expanded="false" />
-            <element signature="n#!!block;n#lastKNumbersSeq#0" expanded="false" />
-            <element signature="n#!!block;n#processOddNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#smallest2Numbers#0" expanded="false" />
-            <element signature="n#!!block;n#biggestElementMatrix#0" expanded="false" />
-            <element signature="n#!!block;n#diagonalSums#0" expanded="false" />
-            <element signature="n#!!block;n#equalNeighbours#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!block;n#printDelimiter#0" expanded="false" />
-            <element signature="n#!!block;n#printNthElement#0" expanded="false" />
-            <element signature="n#!!block;n#addRemove#0" expanded="false" />
-            <element signature="n#!!block;n#rotateArray#0" expanded="false" />
-            <element signature="n#!!block;n#nonDecreasingSeq#0" expanded="false" />
-            <element signature="n#!!block;n#sortArray#0" expanded="false" />
-            <element signature="n#!!block;n#magicMatrixes#0" expanded="false" />
-            <element signature="n#!!block;n#diagonalAttack#0" expanded="false" />
-            <element signature="n#!!block;n#orbit#0" expanded="false" />
-            <element signature="n#!!block;n#spiralMatrix#0" expanded="false" />
+            <element signature="n#!!block;n#printLetters#0" expanded="false" />
+            <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+            <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+            <element signature="n#!!block;n#extractText#0" expanded="false" />
+            <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+            <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+            <element signature="n#!!block;n#usernames#0" expanded="false" />
+            <element signature="n#!!block;n#censorship#0" expanded="false" />
+            <element signature="n#!!block;n#escaping#0" expanded="false" />
+            <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+            <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+            <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+            <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+            <element signature="n#!!block;n#employeeData#0" expanded="false" />
+            <element signature="n#!!block;n#formFiller#0" expanded="false" />
+            <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -346,54 +338,116 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!block;n#sumFirstLast#0" expanded="false" />
-            <element signature="n#!!block;n#evenPositions#0" expanded="false" />
-            <element signature="n#!!block;n#negativePositiveNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#firstLastElements#0" expanded="false" />
-            <element signature="n#!!block;n#lastKNumbersSeq#0" expanded="false" />
-            <element signature="n#!!block;n#processOddNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#smallest2Numbers#0" expanded="false" />
-            <element signature="n#!!block;n#biggestElementMatrix#0" expanded="false" />
-            <element signature="n#!!block;n#diagonalSums#0" expanded="false" />
-            <element signature="n#!!block;n#equalNeighbours#0" expanded="false" />
+            <element signature="n#!!block;n#printLetters#0" expanded="false" />
+            <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+            <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+            <element signature="n#!!block;n#extractText#0" expanded="false" />
+            <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+            <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+            <element signature="n#!!block;n#usernames#0" expanded="false" />
+            <element signature="n#!!block;n#censorship#0" expanded="false" />
+            <element signature="n#!!block;n#escaping#0" expanded="false" />
+            <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+            <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+            <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+            <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+            <element signature="n#!!block;n#employeeData#0" expanded="false" />
+            <element signature="n#!!block;n#formFiller#0" expanded="false" />
+            <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="117" column="1" lean-forward="false" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!block;n#sumFirstLast#0" expanded="false" />
-            <element signature="n#!!block;n#evenPositions#0" expanded="false" />
-            <element signature="n#!!block;n#negativePositiveNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#firstLastElements#0" expanded="false" />
-            <element signature="n#!!block;n#lastKNumbersSeq#0" expanded="false" />
-            <element signature="n#!!block;n#processOddNumbers#0" expanded="false" />
-            <element signature="n#!!block;n#smallest2Numbers#0" expanded="false" />
-            <element signature="n#!!block;n#biggestElementMatrix#0" expanded="false" />
-            <element signature="n#!!block;n#diagonalSums#0" expanded="false" />
-            <element signature="n#!!block;n#equalNeighbours#0" expanded="false" />
+            <element signature="n#!!block;n#printLetters#0" expanded="false" />
+            <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+            <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+            <element signature="n#!!block;n#extractText#0" expanded="false" />
+            <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+            <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+            <element signature="n#!!block;n#usernames#0" expanded="false" />
+            <element signature="n#!!block;n#censorship#0" expanded="false" />
+            <element signature="n#!!block;n#escaping#0" expanded="false" />
+            <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+            <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+            <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+            <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+            <element signature="n#!!block;n#employeeData#0" expanded="false" />
+            <element signature="n#!!block;n#formFiller#0" expanded="false" />
+            <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="1" lean-forward="false" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#printLetters#0" expanded="false" />
+            <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+            <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+            <element signature="n#!!block;n#extractText#0" expanded="false" />
+            <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+            <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+            <element signature="n#!!block;n#usernames#0" expanded="false" />
+            <element signature="n#!!block;n#censorship#0" expanded="false" />
+            <element signature="n#!!block;n#escaping#0" expanded="false" />
+            <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+            <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+            <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+            <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+            <element signature="n#!!block;n#employeeData#0" expanded="false" />
+            <element signature="n#!!block;n#formFiller#0" expanded="false" />
+            <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#printLetters#0" expanded="false" />
+            <element signature="n#!!block;n#concatenateReversed#0" expanded="false" />
+            <element signature="n#!!block;n#countOccurances#0" expanded="false" />
+            <element signature="n#!!block;n#extractText#0" expanded="false" />
+            <element signature="n#!!block;n#aggregateTable#0" expanded="false" />
+            <element signature="n#!!block;n#restaurantBill#0" expanded="false" />
+            <element signature="n#!!block;n#usernames#0" expanded="false" />
+            <element signature="n#!!block;n#censorship#0" expanded="false" />
+            <element signature="n#!!block;n#escaping#0" expanded="false" />
+            <element signature="n#!!block;n#matchAllWords#0" expanded="false" />
+            <element signature="n#!!block;n#validateEmails#0" expanded="false" />
+            <element signature="n#!!block;n#expressionSplit#0" expanded="false" />
+            <element signature="n#!!block;n#matchTheDates#0" expanded="false" />
+            <element signature="n#!!block;n#employeeData#0" expanded="false" />
+            <element signature="n#!!block;n#formFiller#0" expanded="false" />
+            <element signature="n#!!block;n#matchMultiplication#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
           <folding>
-            <element signature="n#!!block;n#printDelimiter#0" expanded="false" />
-            <element signature="n#!!block;n#printNthElement#0" expanded="false" />
-            <element signature="n#!!block;n#addRemove#0" expanded="false" />
-            <element signature="n#!!block;n#rotateArray#0" expanded="false" />
-            <element signature="n#!!block;n#nonDecreasingSeq#0" expanded="false" />
-            <element signature="n#!!block;n#sortArray#0" expanded="false" />
-            <element signature="n#!!block;n#magicMatrixes#0" expanded="false" />
-            <element signature="n#!!block;n#diagonalAttack#0" expanded="false" />
-            <element signature="n#!!block;n#orbit#0" expanded="false" />
-            <element signature="n#!!block;n#spiralMatrix#0" expanded="false" />
+            <element signature="n#!!block;n#splitString#0" expanded="false" />
+            <element signature="n#!!block;n#repeatString#0" expanded="false" />
+            <element signature="n#!!block;n#isStartingWith#0" expanded="false" />
+            <element signature="n#!!block;n#isEndingWith#0" expanded="false" />
+            <element signature="n#!!block;n#capitalizeWords#0" expanded="false" />
+            <element signature="n#!!block;n#captureAllNums#0" expanded="false" />
+            <element signature="n#!!block;n#findVarNames#0" expanded="false" />
+            <element signature="n#!!block;n#wordOccur#0" expanded="false" />
+            <element signature="n#!!block;n#extractLinks#0" expanded="false" />
+            <element signature="n#!!block;n#secretData#0" expanded="false" />
           </folding>
         </state>
       </provider>
